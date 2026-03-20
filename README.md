@@ -1,2 +1,3 @@
-# pro-microservice-dgiu
+# Pro Microservice Dgiu
+
 A repository to test GitHub automation for issue management.
